@@ -1,0 +1,14 @@
+# Target labels
+ json-populate
+# Source files and their labels
+C:/Users/omega/Desktop/Code/service-manager-cpp/build/_deps/json-subbuild/CMakeFiles/json-populate
+C:/Users/omega/Desktop/Code/service-manager-cpp/build/_deps/json-subbuild/CMakeFiles/96b3adea5c84b3e562de7c81737ccfe0/json-populate.rule
+C:/Users/omega/Desktop/Code/service-manager-cpp/build/_deps/json-subbuild/CMakeFiles/9bfd78616345dacf7d1a2d26528e1318/json-populate-complete.rule
+C:/Users/omega/Desktop/Code/service-manager-cpp/build/_deps/json-subbuild/CMakeFiles/98346a8a77cfe0a06b74b22860678055/json-populate-build.rule
+C:/Users/omega/Desktop/Code/service-manager-cpp/build/_deps/json-subbuild/CMakeFiles/98346a8a77cfe0a06b74b22860678055/json-populate-configure.rule
+C:/Users/omega/Desktop/Code/service-manager-cpp/build/_deps/json-subbuild/CMakeFiles/98346a8a77cfe0a06b74b22860678055/json-populate-download.rule
+C:/Users/omega/Desktop/Code/service-manager-cpp/build/_deps/json-subbuild/CMakeFiles/98346a8a77cfe0a06b74b22860678055/json-populate-install.rule
+C:/Users/omega/Desktop/Code/service-manager-cpp/build/_deps/json-subbuild/CMakeFiles/98346a8a77cfe0a06b74b22860678055/json-populate-mkdir.rule
+C:/Users/omega/Desktop/Code/service-manager-cpp/build/_deps/json-subbuild/CMakeFiles/98346a8a77cfe0a06b74b22860678055/json-populate-patch.rule
+C:/Users/omega/Desktop/Code/service-manager-cpp/build/_deps/json-subbuild/CMakeFiles/98346a8a77cfe0a06b74b22860678055/json-populate-test.rule
+C:/Users/omega/Desktop/Code/service-manager-cpp/build/_deps/json-subbuild/CMakeFiles/98346a8a77cfe0a06b74b22860678055/json-populate-update.rule

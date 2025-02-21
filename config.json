@@ -1,0 +1,7 @@
+{
+    "services": [
+        { "name": "DummyProcess1", "path": "DummyProcess.exe", "skip": false },
+        { "name": "DummyProcess2", "path": "DummyProcess.exe", "skip": true },
+        { "name": "DummyProcess3", "path": "DummyProcess.exe", "skip": false }
+    ]
+}

@@ -1,0 +1,10 @@
+^C:\USERS\OMEGA\DESKTOP\CODE\SERVICE-MANAGER-CPP\BUILD\_DEPS\JSON-SUBBUILD\CMAKEFILES\96B3ADEA5C84B3E562DE7C81737CCFE0\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/omega/Desktop/Code/service-manager-cpp/build/_deps/json-subbuild -BC:/Users/omega/Desktop/Code/service-manager-cpp/build/_deps/json-subbuild --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/omega/Desktop/Code/service-manager-cpp/build/_deps/json-subbuild/json-populate.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

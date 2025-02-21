@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/omega/Desktop/Code/service-manager-cpp/build/cmake_install.cmake",
+		"C:/Users/omega/Desktop/Code/service-manager-cpp/build/_deps/json-build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
