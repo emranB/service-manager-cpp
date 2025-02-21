@@ -1,5 +1,0 @@
-C:/Users/omega/Desktop/Code/service-manager-cpp/build/CMakeFiles/ServiceManagerCPP.dir
-C:/Users/omega/Desktop/Code/service-manager-cpp/build/CMakeFiles/DummyProcess.dir
-C:/Users/omega/Desktop/Code/service-manager-cpp/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/omega/Desktop/Code/service-manager-cpp/build/CMakeFiles/ZERO_CHECK.dir
-C:/Users/omega/Desktop/Code/service-manager-cpp/build/_deps/json-build/CMakeFiles/ALL_BUILD.dir
