@@ -24,7 +24,10 @@ jobs:
 
     - name: Configure CMake
       run: |
-        cmake -B build -DCMAKE_BUILD_TYPE=Release
+        # Remove any existing build directory to avoid CMake cache conflicts
+        if (Test-Path -Path build) { Remove-Item -Recurse -Force build }
+        
+        cmake -S . -B build -DCMAKE_BUILD_TYPE=Release
 
     - name: Build project
       run: |
