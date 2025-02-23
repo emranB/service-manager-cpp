@@ -5,6 +5,8 @@
 #include <csignal>
 #include <memory>
 
+
+std::shared_ptr<ConfigMgr> configManager;
 std::shared_ptr<SvcMgr> serviceManager;
 
 /**
@@ -30,7 +32,7 @@ int main(int argc, char* argv[]) {
     }
 
     std::string configPath = argv[1];
-    std::shared_ptr<ConfigMgr> configManager = std::make_shared<ConfigMgr>(configPath);
+    configManager = std::make_shared<ConfigMgr>(configPath);
     serviceManager = std::make_shared<SvcMgr>(configManager);
 
     // Register signal handlers for graceful shutdown

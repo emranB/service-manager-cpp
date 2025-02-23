@@ -31,6 +31,8 @@ private:
     std::shared_ptr<ConfigMgr> config;
     std::atomic<bool> running;
     std::map<std::string, PROCESS_INFORMATION> processes;
+    void reportCommandsUsage();
+    std::string compileOutMessage(const std::string& msg);
 };
 
 #endif // SVCMGR_HPP
